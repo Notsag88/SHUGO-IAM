@@ -1,0 +1,3 @@
+# UC-32_Gestionar_Condiciones_Contextuales - 12_UC_Specific_Performance_Benchmarks.md
+
+Documento en construcción para UC-32_Gestionar_Condiciones_Contextuales.

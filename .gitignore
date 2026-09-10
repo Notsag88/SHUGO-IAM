@@ -1,0 +1,46 @@
+﻿# SHUGO Identity & Access Platform - .gitignore
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Logs
+*.log
+logs/
+
+# Secrets y configuración sensible
+*.env
+secrets.json
+appsettings.Development.json
+
+# Node modules (si aplica)
+node_modules/
+
+# Build output
+dist/
+build/
+out/
+
+# Test coverage
+coverage/
+TestResults/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+~*
